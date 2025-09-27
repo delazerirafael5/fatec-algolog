@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class SistemaCompras {
     public static void main (String[] args) {
-        // Chaca o valor de compra e método de pagamento
+        // Checa o valor de compra e método de pagamento
         Scanner scanner = new Scanner(System.in);
         System.out.print("Qual o valor da compra?\n");
         double valorCompra = scanner.nextDouble();
